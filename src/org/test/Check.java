@@ -37,6 +37,9 @@ public class Check {
      
      WebElement pass=driver.findElement(By.name("password"));
      pass.sendKeys("12345");
+     
+  System.out.println("hi");
+  
 	}
 
 }
