@@ -40,7 +40,12 @@ public class Check {
      
   System.out.println("hi");
   System.out.println("Anitha");
+<<<<<<< HEAD
 System.out.println("Hekllo");
+=======
+  System.out.println("Hello");
+  
+>>>>>>> 6214eabc45c3baa42bf5d18ce47adf442ff4a232
 	}
 
 }
